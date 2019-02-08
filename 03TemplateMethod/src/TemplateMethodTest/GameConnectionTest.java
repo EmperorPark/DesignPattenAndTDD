@@ -52,7 +52,7 @@ class GameConnectionTest {
 	 * requestConnection Method result is typed by hard Coding
 	 */
 	@Test
-	void GameConnectionTest() {
+	void GameConnectionHelperTest() {
 		
 		abstGameConnectHelper helper = new DefaultGameConnectHelper();
 		
